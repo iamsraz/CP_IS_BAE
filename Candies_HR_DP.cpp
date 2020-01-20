@@ -9,8 +9,8 @@ using namespace std;
 
 int main()
 {
-    freopen("in.txt","r",stdin);
-    freopen("oo.txt","w",stdout);
+    // freopen("in.txt","r",stdin);
+    // freopen("oo.txt","w",stdout);
     ll i,j,k,t,l,n,m,d,x,y;
     cin>>n;
     string ch,ch1,ch2,ch3,ch4,ans1,ans2,sum;
